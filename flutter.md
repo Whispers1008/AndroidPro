@@ -1,5 +1,5 @@
 # flutter first impression
-- 支持快速开发
+- 快速开发
 - 富有表现力和灵活的UI
 - 原生性能
     - 包含许多核心的widget，如滚动、导航、图标和字体等
