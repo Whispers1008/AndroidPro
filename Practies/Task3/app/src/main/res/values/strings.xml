@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_say_hello">say hello</string>
+    <string name="button_count">count</string>
+    <string name="button_show_count">0</string>
+</resources>
