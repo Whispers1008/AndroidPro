@@ -10,52 +10,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69c317e3-2d6f-4ca8-8a86-95caf6f9b5ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Practies/Task3/app/src/main/java/com/example/myapplication/SecondActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practies/Task3/app/src/main/res/layout/activity_second.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/.idea/render.experimental.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/androidTest/java/com/example/hellotoast/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/java/com/example/hellotoast/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/app/src/test/java/com/example/hellotoast/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToastChallenge/settings.gradle" beforeDir="false" />
-    </list>
+    <list default="true" id="69c317e3-2d6f-4ca8-8a86-95caf6f9b5ab" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practies/TwoActivities" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.-1425122466">
@@ -95,9 +50,7 @@
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Two_Activities.app" />
@@ -152,9 +105,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -179,10 +130,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="736" y="155" key="AndroidCreateXmlResourceDialog/0.0.1280.680@0.0.1280.680" timestamp="1617174917531" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1617178123729">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1617183564678">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1617178123729" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1617183564678" />
     <state width="595" height="24" key="GridCell.Tab.0.bottom" timestamp="1617173356606">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
